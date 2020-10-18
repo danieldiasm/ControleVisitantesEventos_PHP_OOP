@@ -14,7 +14,8 @@ Sistema de controle de eventos PHP OOP utilizando o Framework Smarty.
 2. Emissao de crachas
 
 ### Criado por
-Daniel Dias M.
+Daniel Dias M. 
 Erick Maeda
-> Curso de PHP na Industria Fox (Fox & Earth GmbH)
+
+> Curso de PHP na Industria Fox (Fox & Earth GmbH) 
 > Fevereiro de 2016
