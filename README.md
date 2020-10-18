@@ -15,7 +15,8 @@ Sistema de controle de eventos PHP OOP utilizando o Framework Smarty.
 
 ### Criado por
 Daniel Dias M. 
-Erick Maeda
+
+Erick Maeda 
 
 > Curso de PHP na Industria Fox (Fox & Earth GmbH) 
 > Fevereiro de 2016
